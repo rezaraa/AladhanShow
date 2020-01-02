@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">AladhanShow</string>
+    <string name="please_enter_your_number">Please enter your number</string>
+    <string name="please_enter_your_last_name">Please enter your last name</string>
+    <string name="last_name">Last name</string>
+    <string name="age">Age</string>
+    <string name="please_enter_your_age">Please enter your age</string>
+    <string name="address">Address</string>
+    <string name="please_enter_your_address">Please enter your address</string>
+    <string name="save">save</string>
+    <string name="edit">edit</string>
+    <string name="search_movie">Search Movie </string>
+    <string name="first_guarter">First quarter</string>
+    <string name="second_guarter">Second quarter</string>
+    <string name="third_guarter">Third quarter</string>
+    <string name="forth_guarter">Forth quarter</string>
+    <string name="jan">Jan</string>
+    <string name="feb">Feb</string>
+    <string name="mar">Mar</string>
+    <string name="apr">Apr</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="aug">Aug</string>
+    <string name="sep">Sep</string>
+    <string name="oct">Oct</string>
+    <string name="nov">Nov</string>
+    <string name="dec">Dec</string>
+    <string name="you_are_not_sign_up">You are not sign up</string>
+    <string name="please_enter_dial_number">Please enter dial number</string>
+    <string name="dial">Dial</string>
+    <string name="name">Name :</string>
 </resources>
